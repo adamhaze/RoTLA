@@ -1,0 +1,4 @@
+Sneaker enters room 400
+Thief enters room 201
+Sneaker found a treasure item: Trap
+Orbiter enters room 310

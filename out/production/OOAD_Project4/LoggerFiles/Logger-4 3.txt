@@ -1,0 +1,18 @@
+Brawler enters room 101
+Sneaker enters room 121
+Thief enters room 100
+Runner enters room 122
+Brawler defeats Blinker in battle!
+Brawler celebrates: Dance! 
+Thief found a treasure item: Gem
+Runner defeats Blinker in battle!
+Runner celebrates: 
+Runner enters room 121
+Blinker has been defeated, and is now removed from the game. RIP...
+Blinker has been defeated, and is now removed from the game. RIP...
+Blinker enters room 320
+Seeker enters room 321
+Seeker enters room 312
+Orbiter enters room 301
+Orbiter enters room 401
+Orbiter enters room 410

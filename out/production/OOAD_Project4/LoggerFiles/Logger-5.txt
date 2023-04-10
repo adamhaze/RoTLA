@@ -1,0 +1,15 @@
+Brawler enters room 100
+Runner enters room 101
+Sneaker enters room 102
+Thief enters room 211
+Sneaker found a treasure item: Portal
+Runner enters room 102
+Blinker enters room 220
+Blinker enters room 301
+Seeker enters room 411
+Seeker enters room 211
+Seeker enters room 220
+Orbiter enters room 410
+Orbiter enters room 200
+Seeker defeats Thief in battle!
+Thief takes 1 point of damage.

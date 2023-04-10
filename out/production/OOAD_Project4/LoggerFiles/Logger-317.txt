@@ -1,0 +1,5 @@
+Sneaker enters room 401
+Thief enters room 310
+Thief defeats Orbiter in battle!
+Thief celebrates: Jump! Shout! 
+Orbiter has been defeated, and is now removed from the game. RIP...

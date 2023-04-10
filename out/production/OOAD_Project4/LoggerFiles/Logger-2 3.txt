@@ -1,0 +1,20 @@
+Brawler enters room 112
+Sneaker enters room 112
+Thief enters room 101
+Runner enters room 102
+Brawler defeats Orbiter in battle!
+Brawler celebrates: Dance! 
+Thief defeats Blinker in battle!
+Thief celebrates: Jump! Shout! 
+Runner found a treasure item: Armor
+Runner enters room 112
+Blinker has been defeated, and is now removed from the game. RIP...
+Orbiter has been defeated, and is now removed from the game. RIP...
+Blinker enters room 221
+Blinker enters room 220
+Blinker enters room 312
+Seeker enters room 321
+Seeker enters room 312
+Orbiter enters room 312
+Orbiter enters room 412
+Orbiter enters room 410

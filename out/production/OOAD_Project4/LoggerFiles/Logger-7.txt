@@ -1,0 +1,15 @@
+Brawler enters room 100
+Runner enters room 101
+Sneaker enters room 401
+Thief enters room 100
+Sneaker found a treasure item: Armor
+Runner enters room 100
+Blinker enters room 212
+Blinker enters room 220
+Seeker enters room 401
+Seeker enters room 211
+Seeker enters room 220
+Orbiter enters room 410
+Orbiter enters room 200
+Sneaker defeats Seeker in battle!
+Sneaker celebrates: Spin! Spin! 

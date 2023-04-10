@@ -1,0 +1,14 @@
+Thief enters room 211
+Blinker enters room 321
+Blinker enters room 111
+Blinker enters room 211
+Seeker enters room 302
+Seeker enters room 402
+Seeker enters room 312
+Seeker enters room 200
+Orbiter enters room 100
+Orbiter enters room 110
+Orbiter enters room 100
+Orbiter enters room 310
+Thief defeats Blinker in battle!
+Blinker has been defeated, and is now removed from the game. RIP...

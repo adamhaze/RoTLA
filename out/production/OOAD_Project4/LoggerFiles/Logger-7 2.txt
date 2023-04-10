@@ -1,0 +1,19 @@
+Brawler enters room 120
+Sneaker enters room 100
+Thief enters room 111
+Runner enters room 111
+Brawler found a treasure item: Potion
+Runner enters room 101
+Blinker enters room 310
+Blinker enters room 101
+Blinker enters room 401
+Orbiter enters room 300
+Orbiter enters room 310
+Orbiter enters room 210
+Seeker enters room 322
+Seeker enters room 310
+Seeker enters room 300
+Seeker enters room 400
+Runner defeats Blinker in battle!
+Runner celebrates: 
+Blinker has been defeated, and is now removed from the game. RIP...

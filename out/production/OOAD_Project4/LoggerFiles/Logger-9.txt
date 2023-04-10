@@ -1,0 +1,17 @@
+Brawler enters room 111
+Runner enters room 211
+Sneaker enters room 401
+Thief enters room 100
+Runner defeats Seeker in battle!
+Runner celebrates: Dance! Shout! 
+Runner enters room 212
+Seeker has been defeated, and is now removed from the game. RIP...
+Blinker enters room 402
+Blinker enters room 202
+Seeker enters room 401
+Seeker enters room 220
+Orbiter enters room 410
+Orbiter enters room 200
+Sneaker defeats Seeker in battle!
+Sneaker celebrates: Spin! Spin! 
+Seeker has been defeated, and is now removed from the game. RIP...

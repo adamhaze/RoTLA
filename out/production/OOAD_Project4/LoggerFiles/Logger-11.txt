@@ -1,0 +1,18 @@
+Brawler enters room 102
+Runner enters room 101
+Sneaker enters room 410
+Thief enters room 111
+Sneaker found a treasure item: Sword
+Runner enters room 100
+Blinker defeats Runner in battle!
+Runner takes 1 point of damage.
+Blinker enters room 321
+Seeker enters room 220
+Orbiter enters room 410
+Orbiter enters room 200
+Blinker defeats Runner in battle!
+Runner takes 1 point of damage.
+Sneaker defeats Orbiter in battle!
+Sneaker celebrates: Spin! Spin! 
+Runner has been defeated, and is now removed from the game. RIP...
+Orbiter has been defeated, and is now removed from the game. RIP...

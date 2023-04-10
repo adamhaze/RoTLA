@@ -1,0 +1,12 @@
+Thief enters room 301
+Blinker enters room 110
+Blinker enters room 321
+Seeker enters room 301
+Seeker enters room 402
+Seeker enters room 200
+Orbiter enters room 110
+Orbiter enters room 100
+Orbiter enters room 110
+Orbiter enters room 300
+Seeker defeats Thief in battle!
+Thief takes 1 point of damage.

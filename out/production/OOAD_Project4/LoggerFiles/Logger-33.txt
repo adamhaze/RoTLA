@@ -1,0 +1,4 @@
+Sneaker enters room 210
+Orbiter defeats Sneaker in battle!
+Sneaker takes 1 point of damage.
+Sneaker has been defeated, and is now removed from the game. RIP...

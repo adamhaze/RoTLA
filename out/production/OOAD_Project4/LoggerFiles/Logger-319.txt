@@ -1,0 +1,5 @@
+Sneaker enters room 410
+Thief enters room 301
+Thief defeats Seeker in battle!
+Thief celebrates: Jump! Shout! 
+Seeker has been defeated, and is now removed from the game. RIP...

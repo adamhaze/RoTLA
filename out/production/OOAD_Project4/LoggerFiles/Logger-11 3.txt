@@ -1,0 +1,11 @@
+Brawler enters room 111
+Sneaker enters room 102
+Thief enters room 121
+Runner enters room 221
+Runner found a treasure item: Portal
+Runner enters room 301
+Seeker enters room 321
+Seeker enters room 312
+Orbiter enters room 300
+Orbiter enters room 400
+Orbiter enters room 400

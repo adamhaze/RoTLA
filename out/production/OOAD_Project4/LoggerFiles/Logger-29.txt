@@ -1,0 +1,11 @@
+Sneaker enters room 210
+Thief enters room 311
+Sneaker defeats Orbiter in battle!
+Sneaker celebrates: Spin! Spin! 
+Thief found a treasure item: Portal
+Seeker enters room 210
+Sneaker defeats Seeker in battle!
+Sneaker celebrates: Spin! Spin! 
+Sneaker defeats Orbiter in battle!
+Sneaker celebrates: Spin! Spin! 
+Seeker has been defeated, and is now removed from the game. RIP...

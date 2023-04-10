@@ -1,0 +1,13 @@
+Seeker defeats Thief in battle!
+Thief takes 1 point of damage.
+Blinker enters room 111
+Blinker enters room 200
+Seeker enters room 302
+Seeker enters room 402
+Seeker enters room 200
+Orbiter enters room 100
+Orbiter enters room 110
+Orbiter enters room 100
+Orbiter enters room 310
+Seeker defeats Thief in battle!
+Thief takes 1 point of damage.

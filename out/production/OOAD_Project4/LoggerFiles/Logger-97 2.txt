@@ -1,0 +1,6 @@
+Brawler enters room 120
+Sneaker enters room 121
+Thief enters room 211
+Runner enters room 301
+Runner enters room 311
+Seeker enters room 400

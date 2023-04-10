@@ -1,0 +1,7 @@
+Sneaker enters room 411
+Thief enters room 312
+Thief defeats Blinker in battle!
+Thief celebrates: 
+Blinker has been defeated, and is now removed from the game. RIP...
+Seeker enters room 220
+Orbiter enters room 210

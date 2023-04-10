@@ -1,0 +1,10 @@
+Thief found a treasure item: Potion
+Blinker enters room 212
+Blinker enters room 112
+Seeker enters room 302
+Seeker enters room 402
+Seeker enters room 200
+Orbiter enters room 100
+Orbiter enters room 110
+Orbiter enters room 100
+Orbiter enters room 310

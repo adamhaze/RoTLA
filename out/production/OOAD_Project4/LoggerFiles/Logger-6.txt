@@ -1,0 +1,13 @@
+Brawler enters room 110
+Runner enters room 101
+Sneaker enters room 402
+Thief enters room 111
+Runner found a treasure item: Gem
+Runner enters room 102
+Blinker enters room 411
+Blinker enters room 412
+Seeker enters room 411
+Seeker enters room 211
+Seeker enters room 220
+Orbiter enters room 400
+Orbiter enters room 210

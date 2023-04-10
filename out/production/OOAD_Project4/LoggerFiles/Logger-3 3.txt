@@ -1,0 +1,15 @@
+Brawler enters room 102
+Sneaker enters room 122
+Thief enters room 111
+Runner enters room 102
+Runner enters room 112
+Blinker enters room 322
+Blinker enters room 101
+Blinker enters room 122
+Seeker enters room 321
+Seeker enters room 312
+Orbiter enters room 302
+Orbiter enters room 402
+Orbiter enters room 400
+Sneaker defeats Blinker in battle!
+Sneaker celebrates: Jump! Shout! 

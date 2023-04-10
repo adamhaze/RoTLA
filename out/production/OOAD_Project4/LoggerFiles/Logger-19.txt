@@ -1,0 +1,5 @@
+Sneaker enters room 412
+Thief enters room 311
+Blinker enters room 410
+Seeker enters room 220
+Orbiter enters room 200

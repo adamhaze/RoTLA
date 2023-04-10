@@ -1,0 +1,11 @@
+Brawler enters room 100
+Sneaker enters room 412
+Thief enters room 302
+Blinker defeats Brawler in battle!
+Brawler takes 1 point of damage.
+Blinker enters room 401
+Seeker enters room 220
+Orbiter enters room 200
+Blinker defeats Brawler in battle!
+Brawler takes 1 point of damage.
+Brawler has been defeated, and is now removed from the game. RIP...

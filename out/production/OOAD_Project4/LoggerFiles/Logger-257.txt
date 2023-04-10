@@ -1,0 +1,4 @@
+Sneaker enters room 410
+Thief enters room 200
+Thief found a treasure item: Potion
+Orbiter enters room 300

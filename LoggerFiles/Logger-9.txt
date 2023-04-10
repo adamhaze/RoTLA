@@ -1,0 +1,12 @@
+Thief enters room 311
+Blinker enters room 402
+Blinker enters room 210
+Seeker enters room 302
+Seeker enters room 402
+Seeker enters room 311
+Seeker enters room 200
+Orbiter enters room 100
+Orbiter enters room 110
+Orbiter enters room 100
+Orbiter enters room 310
+Thief defeats Seeker in battle!

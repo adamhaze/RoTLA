@@ -1,0 +1,34 @@
+Brawler enters room 111
+Sneaker enters room 111
+Thief enters room 111
+Runner enters room 111
+Brawler found a treasure item: Armor
+Runner enters room 112
+Blinker enters room 200
+Blinker enters room 101
+Blinker enters room 412
+Blinker enters room 300
+Seeker enters room 321
+Seeker enters room 111
+Seeker enters room 111
+Seeker enters room 312
+Orbiter enters room 322
+Orbiter enters room 112
+Orbiter enters room 422
+Orbiter enters room 400
+Seeker defeats Brawler in battle!
+Brawler takes 1 point of damage.
+Brawler defeats Seeker in battle!
+Brawler celebrates: Dance! 
+Sneaker defeats Seeker in battle!
+Sneaker celebrates: Jump! Shout! 
+Seeker defeats Sneaker in battle!
+Sneaker takes 1 point of damage.
+Thief defeats Seeker in battle!
+Thief celebrates: Jump! Shout! 
+Thief defeats Seeker in battle!
+Thief celebrates: Jump! Shout! 
+Orbiter defeats Runner in battle!
+Runner takes 1 point of damage.
+Seeker has been defeated, and is now removed from the game. RIP...
+Seeker has been defeated, and is now removed from the game. RIP...

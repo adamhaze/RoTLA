@@ -1,0 +1,25 @@
+Brawler enters room 110
+Runner enters room 110
+Sneaker enters room 112
+Thief enters room 100
+Runner enters room 100
+Blinker enters room 110
+Blinker enters room 212
+Blinker enters room 100
+Blinker enters room 122
+Seeker enters room 411
+Seeker enters room 112
+Seeker enters room 212
+Seeker enters room 220
+Orbiter enters room 400
+Orbiter enters room 201
+Orbiter enters room 112
+Blinker defeats Brawler in battle!
+Brawler takes 1 point of damage.
+Runner defeats Blinker in battle!
+Runner celebrates: Dance! Shout! 
+Seeker defeats Sneaker in battle!
+Sneaker takes 1 point of damage.
+Orbiter defeats Sneaker in battle!
+Sneaker takes 1 point of damage.
+Blinker has been defeated, and is now removed from the game. RIP...

@@ -1,0 +1,10 @@
+Brawler enters room 121
+Sneaker enters room 222
+Thief enters room 111
+Runner enters room 421
+Runner found a treasure item: Trap
+Runner enters room 420
+Runner has been defeated, and is now removed from the game. RIP...
+Seeker enters room 321
+Seeker enters room 312
+Orbiter enters room 310

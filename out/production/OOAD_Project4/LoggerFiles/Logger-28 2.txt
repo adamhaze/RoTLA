@@ -1,0 +1,14 @@
+Brawler enters room 102
+Sneaker enters room 101
+Thief enters room 111
+Runner enters room 211
+Runner enters room 311
+Orbiter enters room 310
+Orbiter enters room 300
+Seeker enters room 322
+Seeker enters room 311
+Seeker enters room 300
+Seeker enters room 400
+Runner defeats Seeker in battle!
+Runner celebrates: 
+Seeker has been defeated, and is now removed from the game. RIP...

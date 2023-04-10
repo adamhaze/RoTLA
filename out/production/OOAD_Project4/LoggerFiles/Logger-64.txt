@@ -1,0 +1,11 @@
+Brawler enters room 311
+Sneaker enters room 121
+Thief enters room 120
+Seeker enters room 311
+Seeker enters room 311
+Orbiter enters room 310
+Brawler defeats Seeker in battle!
+Brawler celebrates: Dance! 
+Seeker defeats Brawler in battle!
+Brawler takes 1 point of damage.
+Seeker has been defeated, and is now removed from the game. RIP...

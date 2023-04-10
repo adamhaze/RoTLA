@@ -1,0 +1,8 @@
+Brawler enters room 101
+Sneaker enters room 411
+Thief enters room 301
+Blinker enters room 411
+Seeker enters room 220
+Orbiter enters room 210
+Sneaker defeats Blinker in battle!
+Sneaker celebrates: Spin! Spin! 

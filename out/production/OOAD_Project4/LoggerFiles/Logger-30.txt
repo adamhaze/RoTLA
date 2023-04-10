@@ -1,0 +1,7 @@
+Sneaker enters room 220
+Thief enters room 210
+Orbiter defeats Thief in battle!
+Thief takes 1 point of damage.
+Orbiter defeats Thief in battle!
+Thief takes 1 point of damage.
+Thief has been defeated, and is now removed from the game. RIP...

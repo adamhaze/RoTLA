@@ -1,0 +1,11 @@
+Brawler enters room 112
+Sneaker enters room 120
+Thief enters room 202
+Runner enters room 200
+Runner found a treasure item: Armor
+Runner enters room 210
+Orbiter enters room 300
+Orbiter enters room 310
+Seeker enters room 322
+Seeker enters room 300
+Seeker enters room 400

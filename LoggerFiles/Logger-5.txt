@@ -1,0 +1,12 @@
+Thief found a treasure item: Gem
+Blinker enters room 100
+Blinker enters room 422
+Blinker enters room 401
+Seeker enters room 302
+Seeker enters room 402
+Seeker enters room 312
+Seeker enters room 200
+Orbiter enters room 100
+Orbiter enters room 110
+Orbiter enters room 100
+Orbiter enters room 310
