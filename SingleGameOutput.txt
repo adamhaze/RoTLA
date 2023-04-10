@@ -1,0 +1,596 @@
+/Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=58091:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/evaneaston/Desktop/Senior Year/OOAD/Project 4/Code/out/production/Code:/Users/evaneaston/.m2/repository/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar:/Users/evaneaston/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar:/Users/evaneaston/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/evaneaston/.m2/repository/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar:/Users/evaneaston/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/evaneaston/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar:/Users/evaneaston/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar:/Users/evaneaston/.m2/repository/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar Main
+Welcome to RotLA! Enter your name:
+Parzival
+Now select the type of Adventurer you would like to be:
+1. Brawler
+2. Runner
+3. Sneaker
+4. Theif
+4
+TURN 1
+=========================================
+| 011: TH :- |
+=========================================
+| 100: -:OR2 | 101: -:OR3 | 102: -:- |
+| 110: -:- | 111: -:- | 112: -:OR1 |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:OR4 | 301: -:- | 302: -:SK1 |
+| 310: -:- | 311: -:- | 312: -:SK3 |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:BL1 | 402: -:BL3 SK2 |
+| 410: -:- | 411: -:- | 412: -:BL4 |
+| 420: -:BL2 | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 10
+Treasure found: []
+Current location: 011
+
+Blinkers: 4 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+Begin your adventure! Press 1 to enter the dungeon.
+1
+Here are your choices for rooms to move:
+111
+Enter a room number to move to:111
+The creatures moved rooms ...
+TURN 2
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR3 | 101: -:- | 102: -:OR1 |
+| 110: -:OR2 | 111: TH :- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:BL2 |
+| 210: -:BL4 | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:BL1 |
+=========================================
+| 300: -:- | 301: -:- | 302: -:SK1 |
+| 310: -:OR4 | 311: -:BL3 | 312: -:SK3 |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 10
+Treasure found: []
+Current location: 111
+
+Blinkers: 4 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+There are no creatures in your room! What will you do?
+1.Move
+2.Search for treasure
+3.Celebrate
+
+2
+TH found a Armor
+The creatures moved rooms ...
+TURN 3
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR2 | 101: -:OR1 | 102: -:- |
+| 110: -:OR3 | 111: TH :- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:BL4 OR4 | 301: -:BL2 | 302: -:BL3 SK1 |
+| 310: -:- | 311: -:- | 312: -:SK3 |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:SK2 |
+| 410: -:- | 411: -:BL1 | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 10
+Treasure found: [Armor]
+Current location: 111
+
+Blinkers: 4 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+There are no creatures in your room! What will you do?
+1.Move
+2.Search for treasure
+3.Celebrate
+
+3
+TH celebrates:
+The creatures moved rooms ...
+TURN 4
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR1 OR3 | 101: -:- | 102: -:- |
+| 110: -:OR2 | 111: TH :- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:BL1 | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:BL3 |
+=========================================
+| 300: -:- | 301: -:BL4 | 302: -:SK1 |
+| 310: -:OR4 | 311: -:- | 312: -:SK3 |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:BL2 | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 10
+Treasure found: [Armor]
+Current location: 111
+
+Blinkers: 4 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+There are no creatures in your room! What will you do?
+1.Move
+2.Search for treasure
+3.Celebrate
+
+1
+Here are your choices for rooms to move:
+100 011 110 101 121 112 211
+Enter a room number to move to:101
+The creatures moved rooms ...
+You defeated BL2!
+TURN 5
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR2 | 101: TH :- | 102: -:- |
+| 110: -:OR1 OR3 | 111: -:- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:BL1 |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:OR4 | 301: -:- | 302: -:SK1 |
+| 310: -:- | 311: -:- | 312: -:SK3 |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:BL4 SK2 |
+| 410: -:- | 411: -:- | 412: -:BL3 |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 10
+Treasure found: [Armor]
+Current location: 101
+
+Blinkers: 3 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+There are no creatures in your room! What will you do?
+1.Move
+2.Search for treasure
+3.Celebrate
+
+2
+TH found a Gem
+The creatures moved rooms ...
+TURN 6
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:BL1 OR1 OR3 | 101: TH :- | 102: -:- |
+| 110: -:OR2 | 111: -:- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:- | 301: -:- | 302: -:SK1 |
+| 310: -:OR4 | 311: -:- | 312: -:SK3 |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:BL4 | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:BL3 |
+=== Adventurer Parzival stats ===
+Hitpoints: 10
+Treasure found: [Armor, Gem]
+Current location: 101
+
+Blinkers: 3 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+There are no creatures in your room! What will you do?
+1.Move
+2.Search for treasure
+3.Celebrate
+
+1
+Here are your choices for rooms to move:
+100 111 102
+Enter a room number to move to:111
+The creatures moved rooms ...
+TURN 7
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR2 | 101: -:- | 102: -:- |
+| 110: -:OR1 OR3 | 111: TH :- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:BL3 | 222: -:- |
+=========================================
+| 300: -:OR4 | 301: -:- | 302: -:SK1 |
+| 310: -:- | 311: -:- | 312: -:SK3 |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:BL1 | 401: -:- | 402: -:BL4 SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 10
+Treasure found: [Armor, Gem]
+Current location: 111
+
+Blinkers: 3 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+There are no creatures in your room! What will you do?
+1.Move
+2.Search for treasure
+3.Celebrate
+
+1
+Here are your choices for rooms to move:
+100 011 110 101 121 112 211
+Enter a room number to move to:211
+The creatures moved rooms ...
+You defeated BL4!
+TURN 8
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR1 OR3 | 101: -:- | 102: -:- |
+| 110: -:OR2 | 111: -:BL3 | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:- | 211: TH :- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:- | 301: -:- | 302: -:SK1 |
+| 310: -:OR4 | 311: -:- | 312: -:SK3 |
+| 320: -:- | 321: -:BL1 | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 10
+Treasure found: [Armor, Gem]
+Current location: 211
+
+Blinkers: 2 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+There are no creatures in your room! What will you do?
+1.Move
+2.Search for treasure
+3.Celebrate
+
+2
+TH couldn't find treasure...
+The creatures moved rooms ...
+TURN 9
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR2 | 101: -:- | 102: -:- |
+| 110: -:OR1 OR3 | 111: -:- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:BL3 |
+| 210: -:- | 211: TH :- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:OR4 | 301: -:- | 302: -:SK1 |
+| 310: -:- | 311: -:- | 312: -:SK3 |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:BL1 |
+=== Adventurer Parzival stats ===
+Hitpoints: 10
+Treasure found: [Armor, Gem]
+Current location: 211
+
+Blinkers: 2 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+There are no creatures in your room! What will you do?
+1.Move
+2.Search for treasure
+3.Celebrate
+
+1
+Here are your choices for rooms to move:
+210 201 221 212 111 311
+Enter a room number to move to:311
+The creatures moved rooms ...
+You defeated SK3!
+TURN 10
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR1 OR3 | 101: -:- | 102: -:- |
+| 110: -:OR2 | 111: -:- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:BL3 | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:- | 301: -:- | 302: -:SK1 |
+| 310: -:OR4 | 311: TH :SK3 | 312: -:- |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:BL1 SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 10
+Treasure found: [Armor, Gem]
+Current location: 311
+
+Blinkers: 2 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+You have found yourself in a room with creatures! What will you do?
+1.Move (take 1 damage for every creature in room)
+2.Fight
+
+2
+You lost your fight and took some damage!
+The creatures moved rooms ...
+You lost your fight and took some damage!
+TURN 11
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:BL3 OR2 | 101: -:- | 102: -:- |
+| 110: -:OR1 OR3 | 111: -:- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:BL1 | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:OR4 | 301: -:- | 302: -:SK1 |
+| 310: -:- | 311: TH :SK3 | 312: -:- |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 8
+Treasure found: [Armor, Gem]
+Current location: 311
+
+Blinkers: 2 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+You have found yourself in a room with creatures! What will you do?
+1.Move (take 1 damage for every creature in room)
+2.Fight
+
+2
+You lost your fight and took some damage!
+The creatures moved rooms ...
+You lost your fight and took some damage!
+TURN 12
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR1 OR3 | 101: -:- | 102: -:- |
+| 110: -:OR2 | 111: -:BL1 | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:BL3 SK4 | 201: -:- | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:- | 301: -:- | 302: -:SK1 |
+| 310: -:OR4 | 311: TH :SK3 | 312: -:- |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 6
+Treasure found: [Armor, Gem]
+Current location: 311
+
+Blinkers: 2 remaining
+Orbiters: 4 remaining
+Seekers: 4 remaining
+You have found yourself in a room with creatures! What will you do?
+1.Move (take 1 damage for every creature in room)
+2.Fight
+
+2
+You defeated SK3!
+The creatures moved rooms ...
+TURN 13
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR2 | 101: -:- | 102: -:- |
+| 110: -:OR1 OR3 | 111: -:- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:BL3 | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:OR4 | 301: -:- | 302: -:SK1 |
+| 310: -:- | 311: TH :- | 312: -:- |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:BL1 | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 6
+Treasure found: [Armor, Gem]
+Current location: 311
+
+Blinkers: 2 remaining
+Orbiters: 4 remaining
+Seekers: 3 remaining
+There are no creatures in your room! What will you do?
+1.Move
+2.Search for treasure
+3.Celebrate
+
+2
+TH found a Potion
+The creatures moved rooms ...
+TURN 14
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR1 OR3 | 101: -:- | 102: -:- |
+| 110: -:OR2 | 111: -:- | 112: -:BL3 |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:BL1 |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:- | 301: -:- | 302: -:SK1 |
+| 310: -:OR4 | 311: TH :- | 312: -:- |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 7
+Treasure found: [Armor, Gem, Potion]
+Current location: 311
+
+Blinkers: 2 remaining
+Orbiters: 4 remaining
+Seekers: 3 remaining
+There are no creatures in your room! What will you do?
+1.Move
+2.Search for treasure
+3.Celebrate
+
+1
+Here are your choices for rooms to move:
+310 301 321 312 211 411
+Enter a room number to move to:301
+The creatures moved rooms ...
+You lost your fight and took some damage!
+TURN 15
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR2 | 101: -:- | 102: -:- |
+| 110: -:BL1 OR1 OR3 | 111: -:- | 112: -:- |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:OR4 | 301: TH :SK1 | 302: -:- |
+| 310: -:- | 311: -:- | 312: -:- |
+| 320: -:- | 321: -:BL3 | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 6
+Treasure found: [Armor, Gem, Potion]
+Current location: 301
+
+Blinkers: 2 remaining
+Orbiters: 4 remaining
+Seekers: 3 remaining
+You have found yourself in a room with creatures! What will you do?
+1.Move (take 1 damage for every creature in room)
+2.Fight
+
+2
+You defeated SK1!
+The creatures moved rooms ...
+FINAL STATE
+TURN 15
+=========================================
+| 011: -:- |
+=========================================
+| 100: -:OR1 OR3 | 101: -:- | 102: -:- |
+| 110: -:OR2 | 111: -:- | 112: -:BL1 |
+| 120: -:- | 121: -:- | 122: -:- |
+=========================================
+| 200: -:SK4 | 201: -:- | 202: -:- |
+| 210: -:- | 211: -:- | 212: -:- |
+| 220: -:- | 221: -:- | 222: -:- |
+=========================================
+| 300: -:- | 301: TH :- | 302: -:- |
+| 310: -:OR4 | 311: -:- | 312: -:BL3 |
+| 320: -:- | 321: -:- | 322: -:- |
+=========================================
+| 400: -:- | 401: -:- | 402: -:SK2 |
+| 410: -:- | 411: -:- | 412: -:- |
+| 420: -:- | 421: -:- | 422: -:- |
+=== Adventurer Parzival stats ===
+Hitpoints: 6
+Treasure found: [Armor, Gem, Potion]
+Current location: 301
+
+Blinkers: 2 remaining
+Orbiters: 4 remaining
+Seekers: 2 remaining
+
+
+Tracker: Turn 15
+Total Active Adventurers: 4
+
+Adventurers          Room                 Damage               Treasure
+--------------------------------------------------------------------------
+Thief                301                  5                    Armor,Gem,Potion,
+
+
+Total Active Creatures: 8
+
+Creatures            Room
+--------------------------
+Blinker              112
+Blinker              312
+Seeker               402
+Seeker               200
+Orbiter              100
+Orbiter              110
+Orbiter              100
+Orbiter              310
+
+Process finished with exit code 0
